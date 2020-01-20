@@ -1,2 +1,2 @@
-<h1>light Routine Example</h1>
+<h3>Flight Routine Example</h3>
 sample/core/src/flight_sample.cpp
